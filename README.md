@@ -1,2 +1,4 @@
 # hello-world
-Just another repository!
+
+Hey!
+Ian here, just checking in!
